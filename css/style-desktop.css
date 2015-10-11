@@ -1,0 +1,50 @@
+@media only screen and (min-width: 900px) {
+
+  .header{
+    margin-top: 3%;
+  }
+
+  .nav-link {
+    position: relative;
+    display: block;
+    padding: 1.5em 1.5em 1.5em;
+    text-align: center;
+  }
+
+  .navbar-default {
+    background-image: none;
+    background-image: none;
+    webkit-box-shadow: none;
+    box-shadow: none;
+    border-color: transparent;
+    background-color: transparent;
+    width: 75%;
+    margin-left: 22%;
+  }
+
+  .initials {
+    margin-top: 0;
+  }
+
+  .text-thin {
+    text-align: right;
+    margin-top: 0;
+    font-size: 45px;
+  }
+
+  .caption-1 {
+    text-align: right;
+  }
+
+  .caption-3 {
+    text-align: center;
+  }
+
+  .fw-subtitle {
+    text-align: left;
+  }
+
+  .section {
+    margin-top: 5%;
+  }
+}

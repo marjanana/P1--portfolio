@@ -1,0 +1,40 @@
+.container {
+  background-color: #F4F0CB;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #996515;
+}
+
+h3 {
+  text-align: center;
+}
+
+hr {
+  border-top: 3px solid #996515;
+}
+
+.initials {
+  border-radius: 6px;
+}
+
+.section {
+  text-align: center;
+  color: #996515;
+}
+
+.text-thin {
+  font-weight: 100;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgba(153,101,21,0.42);
+  margin-top: 8%;
+  padding-top: 3%;
+  padding-bottom: 6%;
+  font-size: 16px;
+}
+
